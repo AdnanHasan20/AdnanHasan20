@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adnan Hasan</h1>
-<h3 align="center">Aspiring Data Scientist. Masters Student at The University of Sheffield, UK</h3>
+<h3 align="center">Data Scientist | Data Analyst | Data Engineer</h3>
+
 
 - 🌱 I’m currently studying **MSc. in Data Science**
 
