@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist | Data Analyst | Data Engineer</h3>
 
 ---
-- 🌱 I’m currently studying **MSc. in Data Science**
+- 🌱 I’m currently studying **MSc. in Data Science at The University of Sheffield, UK**
 
 - 📫 How to reach me **adnanh.sep@gmail.com**
 
