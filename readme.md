@@ -1,5 +1,7 @@
-<h1 align="center">Hi  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">! I'm Adnan Hasan</h1>
+<h1 align="center">Hi!  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> I'm Adnan Hasan</h1>
 <h3 align="center">Data Scientist | Data Analyst | Data Engineer</h3>
+
+I’m a curious and analytical thinker with a passion for turning data into actionable insights. With a strong foundation in problem-solving and critical thinking, I thrive on discovering patterns and trends that help businesses make informed decisions. I’m always eager to learn new skills, collaborate on projects, and challenge myself to grow in the ever-evolving world of data science. Excited about leveraging data to solve real-world problems and make a meaningful impact.
 
 ---
 - 🌱 I’m currently studying **MSc. in Data Science at The University of Sheffield, UK**
